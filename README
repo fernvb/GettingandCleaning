@@ -4,6 +4,5 @@ Dataset:https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR
 
 Files:
 Run_analysis.R - contains the script to perform the data preparation as per instructions of the course project
-Final_data.txt - final data obtained by running the code Run_analysis.R
 Codebook.md - code book with the variables and the work done to transform the data.
 
